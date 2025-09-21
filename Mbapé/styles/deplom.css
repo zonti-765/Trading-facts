@@ -1,0 +1,19 @@
+h1{
+    color:blue;
+    text-align: center;
+    border:1px dotted white
+}
+#name{
+    color: white;
+    text-align: center;
+
+    
+
+}
+body{
+background-color: black;
+}
+p{
+    border:1px dotted white;
+    color: white; 
+}
